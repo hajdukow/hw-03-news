@@ -13,4 +13,6 @@
 
 ## Demo
 
+Демо проекта: https://hajdukow.github.io/hw-03-news/
+
 ![Welcome GIF](./images/recording.gif)
